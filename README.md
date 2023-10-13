@@ -4,6 +4,8 @@
 
 ![JonatasAlv3s GitHub stats](https://github-readme-stats.vercel.app/api?username=JonatasAlv3s&show_icons=true&theme=onedark)
 
+![JontasAlv3s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasAlv3s&layout=compact)
+
 ## Tecnologias 
 
 <div style="display: inlim_block"><br/>
