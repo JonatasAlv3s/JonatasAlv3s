@@ -2,9 +2,13 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatas-alves-065523156/)
 
-![JonatasAlv3s GitHub stats](https://github-readme-stats.vercel.app/api?username=JonatasAlv3s&show_icons=true&theme=onedark)
 
-![JontasAlv3s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasAlv3s&layout=compact)
+<div align="center">
+  <a href="https://github.com/JonatasAlv3s">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasAlv3s&show_icons=true&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasAlv3s&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+
 
 ## Tecnologias 
 
