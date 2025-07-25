@@ -3,6 +3,10 @@
 
 ###
 
+<p align="left>## 👋 Hey there, I'm Jonatas Alves!
+
+I'm a front-end developer with both feet firmly planted in React and a soft spot for JavaScript and TypeScript. I interned working on interfaces using Next.js and Material UI, and took part in a full migration from JS to TS (yes, the kind of moment where everything breaks and you *really* learn 😂).<br><br>🚀 Currently diving into the world of back-end with Java and exploring databases with MySQL — because every curious front-end dev eventually wants to know what's going on “on the other side”.<br><br>🧪 I've dabbled in Node.js, I’m comfortable using Postman, and I’m always trying to understand how things work behind the scenes.<br><br>🎮 When I'm not coding, you'll probably find me reading, studying, or battling bosses in a good RPG. Oh, and yes — I’m a bit of a finance geek too. I love following the stock market just for fun 📈.<br><br>---<br><br>### 📫 Where to find me:<br>- 💼 [LinkedIn](https://linkedin.com/in/jonatas-alves-ads)<br><br>- 🌐 [My Portfolio](https://jonatasalvesdev.vercel.app/)<br><br>---<br><br>✨ Feel free to explore my repositories, leave a ⭐ or drop me a message!</p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JonatasAlv3s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JonatasAlv3s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
